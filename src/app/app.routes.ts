@@ -5,8 +5,8 @@ import { PeminjamanComponent } from './components/peminjaman/peminjaman.componen
 import { AnggotaComponent } from './components/anggota/anggota.component';
 import { DendaComponent } from './components/denda/denda.component';
 import { PengembalianComponent } from './components/pengembalian/pengembalian.component';
-import { ContactComponent } from './contact/contact.component';
-import { AboutComponent } from './about/about.component';
+import { ContactComponent } from './components/contact/contact.component';
+import { AboutComponent } from './components/about/about.component';
 import { AuthComponent } from './components/auth/auth.component';
 import { AuthGuard } from './auth.guard';
 
